@@ -15,5 +15,4 @@ int main() {
         std::cout << p << " (" << p.size() << " chars)\n";
     }
     
-    std::cout << plagas[10] << "\n";
 }
